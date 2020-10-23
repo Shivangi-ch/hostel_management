@@ -1,0 +1,73 @@
+* {
+  margin:0;
+  overflow: hidden;
+}
+
+
+body{
+  background-image:url("https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/5050/2018/4/26/Campus-View-4.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.753), rgba(15, 15, 15, 0.836)), url('https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/5050/2018/4/26/Campus-View-4.png'); 
+background-repeat: no-repeat;
+background-position:center center;
+background-size:cover;
+text-align: center;
+background-attachment: fixed; 
+}
+.letters{
+  margin-top: 60px;
+  color:rgb(228, 5, 5);
+  font-family:'Alegreya Sans SC' ;
+font-size: 50px;
+text-shadow: 2px 2px white;
+}
+form, .content {
+  width: 60vw;
+  margin-top: 40px;
+  margin-left: 270px;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: rgba(22, 22, 22, 0.39);
+  border-radius: 0px 0px 10px 10px;
+  height: 72vh;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  overflow: hidden;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+  height: 6vh;
+
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 3vh;
+  width: 40%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  background-color: rgb(255, 226, 228);
+}
+.input-group input:hover {
+  border: 2px solid rgb(243, 1, 14);
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: rgba(243, 8, 8, 0.815);
+  border: none;
+  border-radius: 5px;
+}
+.inp textarea{
+  margin-bottom: 25px;
+background-color: rgb(255, 226, 228);}
+  .inp :hover {
+    border: 2px solid rgb(243, 1, 14);
+}
+p{
+  color:white;
+}

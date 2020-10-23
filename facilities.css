@@ -1,0 +1,164 @@
+
+body{
+  background-image:url("https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/5050/2018/4/26/Campus-View-4.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.637), rgba(15, 15, 15, 0.664)), url('https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/5050/2018/4/26/Campus-View-4.png'); 
+background-repeat: no-repeat;
+background-position:center center;
+background-size:cover;
+text-align: center;
+background-attachment: fixed;
+
+
+}
+.bar{
+  height: 60px;
+  width: 100%;
+  background-color: rgba(27, 250, 231, 0.753);
+
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 8vh ;
+  position: fixed; 
+  top: 0;
+}
+.bar img{
+  position: absolute;
+  top: 8px;
+  left: 10px ;
+  height: 50px;
+  width: 50px;
+}
+.bar h1{
+  text-align: center;
+  padding-top:10px;
+  font-family: 'Alegreya Sans SC';
+  font-size:30px;
+  justify-content: center;
+  letter-spacing: 1px;
+  color: white;
+  font-weight: bolder;
+}
+
+.bar p{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+.main{
+  margin-top: 150px;
+  font-family:'Alegreya Sans ' ;
+  font-size: 25px;
+  font-weight:lighter;
+  text-align: center;
+  color: white;
+  margin-left:160px;
+  margin-right: 50px;
+      width: 1060px;
+      height: 250px;
+      background: rgba(15, 15, 15, 0.493);
+      border-radius: 5px;
+      color: #fff;
+      padding: 25px;
+      box-sizing: border-box;
+      font-size: 20px;
+      letter-spacing: 1px;
+
+}
+.heading{
+  margin-left:-500px;
+  margin-top:120px;
+  font-family: 'Alegreya Sans SC';
+  font-weight:100px;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  margin-bottom: 80px;
+  border-bottom: 2px solid rgba(8, 243, 223, 0.815);
+  display: inline-block;
+  
+}
+.amm li{
+  margin-left:-39px;
+  
+  font-family: 'Alegreya Sans';
+  font-weight:bold;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  text-align: start;
+ 
+}
+.skill-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 90px;
+  margin-left: 5vw;
+  margin-right: 13vw;
+  font-size: 60px;
+  width: 900px;
+  color: rgb(28, 250, 239);
+  
+}
+.skill-logo1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+  margin-left: 5vw;
+  margin-right: 13vw;
+  font-size: 15px;
+  width: 900px;
+  color: rgb(247, 241, 247);
+  font-weight: bolder;
+  
+}
+footer{
+  position: relative;
+  margin-left: -200px;
+  margin-top: 90px;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+blockquote{
+font-size: 1.1em;
+font-weight: lighter;
+
+width:117%;
+/* margin:50px auto; */
+font-family:Open Sans;
+font-style:italic;
+color: #ffffff;
+padding:1.2em 30px 1.2em 75px;
+border-left:8px solid #ffffff ;
+line-height:1.0;
+position: relative;
+background: rgba(22, 22, 22, 0.651);
+}
+
+blockquote::before{
+font-family:Arial;
+content: "\201C";
+color:#ffffff;
+font-size:4em;
+position: absolute;
+left: 10px;
+top:-10px;
+}
+
+blockquote::after{
+content: '';
+}
+
+blockquote span{
+display:block;
+color:#ffffff;
+font-style: normal;
+font-weight: bold;
+margin-top:1em;
+}
+
+
+
+
+
+

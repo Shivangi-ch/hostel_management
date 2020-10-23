@@ -1,0 +1,119 @@
+
+
+
+ 
+*{
+  margin: 0%;
+  padding: 0%;
+  
+}
+body{
+    background-image:url("https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/5050/2018/4/26/Campus-View-4.png");
+     background: linear-gradient(rgba(0, 0, 0, 0.432), rgba(0, 0, 0, 0.39)), url('https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/5050/2018/4/26/Campus-View-4.png'); 
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-size:cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+.bar{
+    height: 60px;
+    width: 100%;
+    background-color: rgba(8, 243, 223, 0.815);
+    opacity: 0.7;
+}
+.bar img{
+    position: absolute;
+    top: 8px;
+    left: 10px ;
+    height: 50px;
+    width: 50px;
+}
+.bar h1{
+    text-align: center;
+    padding-top:10px;
+    font-family: 'Alegreya Sans SC';
+    font-size:30px;
+    justify-content: center;
+    letter-spacing: 1px;
+    color: white;
+}
+
+.bar p{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+
+.header {
+  width: 30vw;
+  margin: 50px auto 0px;
+  color: rgb(255, 255, 255);
+  background: #0df4fc73;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+  font-family: 'Alegreya Sans SC';
+}
+
+form, .content {
+  width: 30vw;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: rgba(22, 22, 22, 0.39);
+  border-radius: 0px 0px 10px 10px;
+  /* height: 70vh; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+  height: 6vh;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 3vh;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.input-group input:hover {
+  border: 2px solid rgb(0, 151, 151);
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: rgba(8, 243, 223, 0.815);
+  border: none;
+  border-radius: 5px;
+}
+p{
+  color:white;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #f30602; 
+  color: #f70602; 
+  background: #0a0000; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
